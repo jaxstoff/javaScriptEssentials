@@ -29,3 +29,9 @@ followersCount
 ### Lab 6 - Product Survey
 
 productSurvey
+
+## Module 2 - Arrays and Objects in JavaScript
+
+### Lab 1 - Working with Arrays
+
+restaurantMenu
