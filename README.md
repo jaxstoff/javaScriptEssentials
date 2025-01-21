@@ -1,4 +1,4 @@
-#JavaScript Essentials Labs
+# JavaScript Essentials Labs
 
 ## Module 1
 
