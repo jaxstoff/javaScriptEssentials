@@ -21,3 +21,7 @@ controlFlow
 
 calculateArea
 groceryTracker
+
+### Lab 5 - Follower counter function
+
+followersCount
