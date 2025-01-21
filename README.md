@@ -1,6 +1,9 @@
-# JavaScript Essentials Labs
+# IBM JavaScript Programming Essentials Labs
 
-## Module 1
+This is for course 4 of the IBM FUllStack JavaScript Professional Certification on Coursera
+(really simple stuff, so really just a review before jumoping into some new things in later courses)
+
+## Module 1 - Introduction to JavaScript Development
 
 ### Lab 1 - Setting Up Git
 
