@@ -1,7 +1,7 @@
 # IBM JavaScript Programming Essentials Labs
 
-This is for course 4 of the IBM FUllStack JavaScript Professional Certification on Coursera
-(really simple stuff, so really just a review before jumoping into some new things in later courses)
+This is for course 4 of the IBM FullStack JavaScript Professional Certification on Coursera
+(really (!!!!) simple stuff, so really just a review before jumping into some new things in later courses)
 
 ## Module 1 - Introduction to JavaScript Development
 
