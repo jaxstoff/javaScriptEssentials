@@ -25,3 +25,7 @@ groceryTracker
 ### Lab 5 - Follower counter function
 
 followersCount
+
+### Lab 6 - Product Survey
+
+productSurvey
