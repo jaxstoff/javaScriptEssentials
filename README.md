@@ -40,4 +40,12 @@ restaurantMenu
 
 employeeDetails
 
+### Lab 3 -
+
+book
+
+### Lab 4 - Speed Testing Using String Manipulations
+
+speedAnalysis
+
 
