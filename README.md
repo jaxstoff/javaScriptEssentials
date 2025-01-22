@@ -48,4 +48,9 @@ bookSystem
 
 speedAnalysis
 
+## Module 3 - JavaScript and the DOM
+
+#### Lab 1 - JavaScript Debugging in Chrome
+
+DebugCode
 
