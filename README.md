@@ -35,3 +35,9 @@ productSurvey
 ### Lab 1 - Working with Arrays
 
 restaurantMenu
+
+### Lab 2 - Array Methods
+
+employeeDetails
+
+
