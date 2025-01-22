@@ -1,7 +1,7 @@
 # IBM JavaScript Programming Essentials Labs
 
 This is for course 4 of the IBM FullStack JavaScript Professional Certification on Coursera
-(really (!!!!) simple stuff, so really just a review before jumping into some new things in later courses)
+(really (!!!!) simple stuff - mostly copy-paste and then tweak, so really just a review before jumping into some new things in later courses)
 
 ## Module 1 - Introduction to JavaScript Development
 
@@ -40,9 +40,9 @@ restaurantMenu
 
 employeeDetails
 
-### Lab 3 -
+### Lab 3 - Using objects
 
-book
+bookSystem
 
 ### Lab 4 - Speed Testing Using String Manipulations
 
