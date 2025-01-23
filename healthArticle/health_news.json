@@ -1,0 +1,21 @@
+{
+    "news": [
+      {
+        "title": "The Importance of Regular Exercise",
+        "description": "This article discusses the numerous benefits of regular exercise, including improved cardiovascular health, stronger muscles, better mental health, and increased longevity."
+      },
+      {
+        "title": "Healthy Eating Habits for a Balanced Life",
+        "description": "Learn about the fundamentals of a balanced diet, including tips on incorporating fruits, vegetables, whole grains, lean proteins, and healthy fats into your meals."      
+      },
+      {
+        "title": "Managing Stress for Better Health",
+        "description": "Discover effective strategies to manage stress, such as meditation, exercise, adequate sleep, and fostering social connections, to improve overall well-being."   
+      },
+      {
+        "title": "The Importance of Adequate Sleep",
+        "description": "This article explores the significance of sleep for health, discussing its role in cognitive function, immune system regulation, and overall physical and mental health."
+      }
+    ]
+}
+  
