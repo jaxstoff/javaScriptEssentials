@@ -54,9 +54,9 @@ speedAnalysis
 
 DebugCode
 
-### Lab 2
+### Lab 2 - a game!
 
-?
+colorfulMemoryGame
 
 ## Module 4 - AJAX
 
