@@ -54,3 +54,12 @@ speedAnalysis
 
 DebugCode
 
+### Lab 2
+
+?
+
+## Module 4 - AJAX
+
+### Lab 1 Fetch using XMLHttpRequest
+
+healthArticle
