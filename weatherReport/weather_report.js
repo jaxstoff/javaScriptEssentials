@@ -2,13 +2,21 @@ function showweatherDetails(event) {
     event.preventDefault();
     const city = document.getElementById('city').value;
     const apiKey = document.getElementById('api').value; 
+    const lat = document.getElementById('lat').value;
+    const lon = document.getElementById('lon').value;
     const limit = '5';
     const units = 'imperial';
-    // Replace 'YOUR_API_KEY' with your actual API key
-    //const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=metric`;
-    const apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=${units}`;
-    // get lat/long
-   // const geoapiUrl = `https://api.openweathermap.org/geo/1.0/direct?q=${city}&limit=${limit}&appid=${apiKey}`;
+    
+   // if city is blank use lat/long. If those are blank - oops
+   if (city != ''){
+        apiUrl = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${apiKey}&units=${units}`;
+    } else if (lat != '' && lon != ''){
+        apiUrl = `https://api.openweathermap.org/data/2.5/weather?lat=${lat}&lon=${lon}&appid=${apiKey}&units=${units}`;
+   } else {
+        const weatherInfo = document.getElementById('weatherInfo');
+        weatherInfo.innerHTML = `<p>Failed to fetch weather. Please try again.</p>`;
+     return;
+   }
 
     fetch(apiUrl)
     .then(response => response.json())
